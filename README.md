@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Recently, I have been working on my personal website, that includes UX & Web Development Projects. 
+#### Recently, I have been working on my personal website, which includes UX & Web Development Projects. 
 🌱 My Current Behance Profile: https://www.behance.net/delianders
