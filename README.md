@@ -1,11 +1,11 @@
-### Hi there 👋
-
+# HELLO!
+## I'm currently attending ASU studing Human Systems Engineering and Focusing in User Experience!
 <!--
 **delianders/delianders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🌱 My Current Behance Profile
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Recently, I have been working on my personal website, that includes UX & Web Development Projects. 
+🌱 My Current Behance Profile: https://www.behance.net/delianders
