@@ -1,5 +1,5 @@
 # HELLO!
-## I'm currently attending ASU studing Human Systems Engineering and Focusing in User Experience!
+## I'm currently attending ASU studying Human Systems Engineering and Focusing in User Experience!
 <!--
 **delianders/delianders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
