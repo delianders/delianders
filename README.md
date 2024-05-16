@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 #### Recently, I have been working on my personal website, which includes UX & Web Development Projects. 
 🌱 My Current Behance Profile: https://www.behance.net/delianders
+#### 🌱 My Current Portfolio: https://delianders.github.io/Delijah-s-Portfolio/
